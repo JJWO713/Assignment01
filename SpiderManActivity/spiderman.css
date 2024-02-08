@@ -1,0 +1,22 @@
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+}
+
+#quote-id {
+    font-weight: bold;
+}
+
+.movie-reference {
+    font-style: italic;
+    color: #cc0000;
+}
+
+.spiderman {
+    font-style: italic;
+    font-size: 22px;
+    color: #170de1;
+}
+    
